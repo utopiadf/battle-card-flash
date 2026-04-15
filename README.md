@@ -25,9 +25,9 @@ Sales engineers and solution architects spend hours manually building database c
 
 **Battle Card Flash** solves this by:
 
-- **Automating the comparison** — Pre-loaded feature data for 10 databases across 27 technical dimensions
+- **Automating the comparison** — Pre-loaded feature data for databases across many technical dimensions
 - **Tailoring to your audience** — Industry-specific strategies prioritize what matters (latency for gaming, ACID for fintech, vector search for AI)
-- **Adding AI-powered analysis** — LLM-generated executive summaries, key differentiators, and recommendations with 5 provider choices
+- **Adding AI-powered analysis** — LLM-generated executive summaries, key differentiators, and recommendations with many provider choices
 - **Producing ready-to-present output** — Professional PowerPoint slides with feature tables, case studies, and expert analysis
 
 One wizard. Four clicks. A polished battle card.
