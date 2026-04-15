@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Battle Card Flash" width="600"/>
+  <img src="LOGO.jpg" alt="Battle Card Flash" width="600"/>
 </p>
 
 <h1 align="center">Battle Card Flash</h1>
